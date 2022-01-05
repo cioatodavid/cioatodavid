@@ -10,5 +10,5 @@
 
 <p align="left">
     <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/davidcioato/"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=www.instagram.com/davidcioato/"/></a>
 </p>  
