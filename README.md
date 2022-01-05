@@ -9,6 +9,7 @@
 </p>
 
 <p align="left">
-    <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=www.instagram.com/davidcioato/"/></a>
-</p>  
+   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/davidcioato/"/>
+  </a>
+  </p>  
