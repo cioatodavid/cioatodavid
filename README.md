@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <strong>David Cioato</strong>.<br>
-  📘 studying.
+  📘 análise e desenvolvimento de sistemas/upf.
 </p>
 <p align="left"> 
   _______________
